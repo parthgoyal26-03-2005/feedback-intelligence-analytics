@@ -1,0 +1,3 @@
+﻿# Annotation rubric for future independent review
+
+Annotators should see only the review and garment context, not the heuristic score or sentiment. Score relevance, specificity and actionability separately from 0 to 2: 0 absent or unrelated, 1 partially present or vague, 2 directly relevant / concrete / suggests a specific improvement respectively. Record uncertainty and rationale. Positive, negative and mixed reviews can receive any quality score. Use two independent raters, adjudicate disagreements, and report agreement before model training. The starter's illustrative labels are not these annotations and no independent annotation study is claimed.

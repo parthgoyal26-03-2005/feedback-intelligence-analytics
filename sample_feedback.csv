@@ -1,0 +1,19 @@
+review_id,reviewer_id,garment,review_text,audio_seconds,photo_count,video_seconds,synthetic_human_quality_1to5
+R001,U01,shirt,"Love it!",0,0,0,1
+R002,U02,shirt,"The cotton feels soft but the shoulder seam pulls when I lift my arms; a slightly wider shoulder panel would improve comfort.",24,2,0,5
+R003,U03,jeans,"Bad product.",0,0,0,1
+R004,U04,jeans,"The waistband feels tight after sitting for 20 minutes and the left pocket opening is difficult to reach. I recommend more room at the waist.",0,2,18,5
+R005,U05,jacket,"Great color and nice overall fit.",0,1,0,2
+R006,U06,jacket,"The sleeves extend around 3 cm beyond my wrists and the zipper catches at the lower hem; shortening the sleeves could improve the fit.",18,1,0,5
+R007,U07,dress,"Not comfortable and I do not like it.",0,0,0,2
+R008,U08,dress,"The fabric is breathable during walking but the waist stitching scratches the skin. A softer seam finish would be helpful.",12,2,12,5
+R009,U09,t-shirt,"It is okay.",0,0,0,1
+R010,U10,t-shirt,"The neck opening remains comfortable after a wash, although the hem became shorter by roughly 1 cm; I would check shrinkage before changing the design.",23,1,0,4
+R011,U11,hoodie,"The fit is excellent and the inner fabric stays soft during a long walk. The pocket opening is narrow for my phone; consider widening it.",0,1,10,5
+R012,U12,hoodie,"Excellent! Amazing! Perfect!",0,0,0,1
+R013,U13,kurta,"The shoulder fit is loose but the sleeve cuff is tight, which reduces comfort while working. A wider cuff may help.",15,1,0,5
+R014,U14,kurta,"The color is ugly.",0,0,0,1
+R015,U15,shirt,"The fabric is light and comfortable. I noticed the button placement leaves a gap at the chest when sitting; an extra button could help.",0,2,14,5
+R016,U16,shirt,"Love it!",0,0,0,1
+R017,U17,jeans,"Waist and length are both true to size, but the inner seam rubs against my knee during movement. Softer stitching could reduce irritation.",18,1,5,5
+R018,U18,jacket,"Looks good in pictures but the collar rubs my neck and the lining traps heat during a short walk; a breathable inner layer might improve comfort.",0,0,15,4
